@@ -7,7 +7,7 @@
   font-family: 'Cedarville Cursive', sans-serif;
 }
 
-.home, .products,.contact{
+.home, .products,.contact,.thanks{
 display:flex;
 height: 90vh;
 align-items: center;
